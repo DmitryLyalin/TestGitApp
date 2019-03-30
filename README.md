@@ -1,1 +1,1 @@
-# App for testing git
+# App2 for testing git
